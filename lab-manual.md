@@ -240,7 +240,7 @@ The lab manager has the following office hours:
 
 You may want to schedule a time for your training purposes by sending a request via email to the lab manager.
 
-# Usage Rates
+# Usage Rates (In development)
 IRL is a shared facility that must recover costs and be able to invest in regular upgrades in order to continue to operate and maintain its ability to permit its users to undertake cutting edge research.  As such, the following rates have been developed and approved by the F&S facilities office for different types of users. 
 *	IRL Facilities
   *	For University of Illinois at Urbana-Champaign users
