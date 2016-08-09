@@ -1,23 +1,23 @@
 # Table of Contents
-* [Introduction to IRL](https://github.com/bo-rc/IRL/blob/master/IRL_Lab_Manual.md#introduction-to-irl)
-  * [Missions](https://github.com/bo-rc/IRL/blob/master/IRL_Lab_Manual.md#missions)
-  * [Organization](https://github.com/bo-rc/IRL/blob/master/IRL_Lab_Manual.md#organization)
-  * [Acknowledge IRL](https://github.com/bo-rc/IRL/blob/master/IRL_Lab_Manual.md#acknowledge-irl)
-* [Use the Lab](https://github.com/bo-rc/IRL/blob/master/IRL_Lab_Manual.md#use-the-lab)
-  * [Becoming a User](https://github.com/bo-rc/IRL/blob/master/IRL_Lab_Manual.md#becoming-a-user)
-  * [Completing Lab Training](https://github.com/bo-rc/IRL/blob/master/IRL_Lab_Manual.md#completing-lab-training)
-  * [Making Reservations](https://github.com/bo-rc/IRL/blob/master/IRL_Lab_Manual.md#making-reservations-to-use-the-lab)
-* [Lab Rules](https://github.com/bo-rc/IRL/blob/master/IRL_Lab_Manual.md#lab-rules)
-  * [Using IRL space](https://github.com/bo-rc/IRL/blob/master/IRL_Lab_Manual.md#using-irl-space)
-    * [Desk Area](https://github.com/bo-rc/IRL/blob/master/IRL_Lab_Manual.md#desk-area)
-    * [Bench Room](https://github.com/bo-rc/IRL/blob/master/IRL_Lab_Manual.md#bench-room)
-    * [Flying Arena](https://github.com/bo-rc/IRL/blob/master/IRL_Lab_Manual.md#flying-arena)
-  * [Safety Rules](https://github.com/bo-rc/IRL/blob/master/IRL_Lab_Manual.md#safety-rules)
-* [Lab Manager Office Hours](https://github.com/bo-rc/IRL/blob/master/IRL_Lab_Manual.md#lab-manager-office-hours)
-* [Usage Rates](https://github.com/bo-rc/IRL/blob/master/IRL_Lab_Manual.md#usage-rates)
-* [Vedio Tutorials](https://github.com/bo-rc/IRL/blob/master/IRL_Lab_Manual.md#video-tutorials-in-development)
-* [Lab Training program](https://github.com/bo-rc/IRL/blob/master/IRL_Lab_Manual.md#lab-training-program-in-development)
-* [Recommendations](https://github.com/bo-rc/IRL/blob/master/IRL_Lab_Manual.md#recommendations)
+* [Introduction to IRL](https://github.com/bo-rc/IRL-lab-management/blob/master/lab-manual.md#introduction-to-irl)
+  * [Missions](https://github.com/bo-rc/IRL-lab-management/blob/master/lab-manual.md#missions)
+  * [Organization](https://github.com/bo-rc/IRL-lab-management/blob/master/lab-manual.md#organization)
+  * [Acknowledge IRL](https://github.com/bo-rc/IRL-lab-management/blob/master/lab-manual.md#acknowledge-irl)
+* [Use the Lab](https://github.com/bo-rc/IRL-lab-management/blob/master/lab-manual.md#use-the-lab)
+  * [Becoming a User](https://github.com/bo-rc/IRL-lab-management/blob/master/lab-manual.md#becoming-a-user)
+  * [Completing Lab Training](https://github.com/bo-rc/IRL-lab-management/blob/master/lab-manual.md#completing-lab-training)
+  * [Making Reservations](https://github.com/bo-rc/IRL-lab-management/blob/master/lab-manual.md#making-reservations-to-use-the-lab)
+* [Lab Rules](https://github.com/bo-rc/IRL-lab-management/blob/master/lab-manual.md#lab-rules)
+  * [Using IRL space](https://github.com/bo-rc/IRL-lab-management/blob/master/lab-manual.md#using-irl-space)
+    * [Desk Area](https://github.com/bo-rc/IRL-lab-management/blob/master/lab-manual.md#desk-area)
+    * [Bench Room](https://github.com/bo-rc/IRL-lab-management/blob/master/lab-manual.md#bench-room)
+    * [Flying Arena](https://github.com/bo-rc/IRL-lab-management/blob/master/lab-manual.md#flying-arena)
+  * [Safety Rules](https://github.com/bo-rc/IRL-lab-management/blob/master/lab-manual.md#safety-rules)
+* [Lab Manager Office Hours](https://github.com/bo-rc/IRL-lab-management/blob/master/lab-manual.md#lab-manager-office-hours)
+* [Usage Rates](https://github.com/bo-rc/IRL-lab-management/blob/master/lab-manual.md#usage-rates)
+* [Vedio Tutorials](https://github.com/bo-rc/IRL-lab-management/blob/master/lab-manual.md#video-tutorials-in-development)
+* [Lab Training program](https://github.com/bo-rc/IRL-lab-management/blob/master/lab-manual.md#lab-training-program-in-development)
+* [Recommendations](https://github.com/bo-rc/IRL-lab-management/blob/master/lab-manual.md#recommendations)
 
 # Introduction to IRL
 The University of Illinois Intelligent Robotics Laboratory (IRL), officially established in 2015, is an initiative of the Coordinated Science Laboratory (CSL). IRL is a shared research facility which brings together world-class faculties and students to solve ambitious and challenging problems in mobile robotics. IRL is also a highly collaborative laboratory to unite research groups of various expertise across the campus to expand the frontier of robotics applications. IRL is pleased to recognize the many units of campus that embrace the notion of a shared facility designed to provide greater capabilities at lower costs for all interested faculty and who are helping fund its operations. These include:
@@ -58,9 +58,9 @@ IRL's missions are:
 * train students about remote piloting, safety procedures and skills to perform robotics-related experiments.
 
 ## Organization
-•	Lab Director: Dr. Naira Hovakimyan (nhovakim@illinois.edu); 
-•	Lab Associate Director: Dr. Timothy W. Bretl (tbretl@illinois.edu)
-•	Lab Coordinator/Manager/Engineer: Dr. Bo Liu (boliu1@illinois.edu)
+*	Lab Director: Dr. Naira Hovakimyan (nhovakim@illinois.edu); 
+*	Lab Associate Director: Dr. Timothy W. Bretl (tbretl@illinois.edu)
+*	Lab Coordinator/Manager/Engineer: Dr. Bo Liu (boliu1@illinois.edu)
 
 Information about IRL can be found on [IRL's website](robotics.illinois.edu).
 
