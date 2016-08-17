@@ -42,8 +42,6 @@ The faculty associated with IRL span an even greater set of units reflecting the
 *	Mechanical Science and Engineering
 *	Physics
 
-IRL currently hosts an indoor drone arena, a 33x30x13 feet<sup>3</sup> (10x9x4 m<sup>3</sup>) motion-capture volume with safety nets and a cushion floor. The motion capture volume is covered by 8 Vicon T40 motion capture cameras capable of running at 370 frame per second with 4M-pixel frame resolution. Real-time positioning data of marker objects, captured by the Vicon motion capture system, can be streamed via local network or internet to devices interfaced with Vicon DataStream SDK. Currently the SDK supports C++ and Matlab programming. Vicon data can be also interfaced to ROS using vicon_bridge. Example usages can be found at IRL's GitHub.
-
 IRL currently hosts an indoor drone arena, a 33x30x13 feet<sup>3</sup> (10x9x4 m<sup>3</sup>) motion-capture volume with safety nets and a cushion floor. The motion capture volume is covered by 8 Vicon T40 motion capture cameras capable of running at 370 frame per second with full frame resolution. Real-time positioning data of marker objects, captured by the Vicon motion capture system, can be streamed via local network or internet to devices interfaced with Vicon DataStream SDK. Currently the SDK supports C++ and Matlab programming. Vicon data can be also interfaced to ROS using [vicon_bridge](https://github.com/bo-rc/vicon_bridge). Example usages can be found at [IRL's GitHub](https://github.com/bo-rc/IRL/tree/master/src/Vicon).
 
 <img src="https://cloud.githubusercontent.com/assets/14265605/16573855/2218e946-423e-11e6-9c99-0a1466258ad2.JPG" width="1000">
