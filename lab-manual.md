@@ -60,7 +60,7 @@ IRL's missions are:
 *	Lab Associate Director: Dr. Timothy W. Bretl (tbretl@illinois.edu)
 *	Lab Coordinator/Manager/Engineer: Dr. Bo Liu (boliu1@illinois.edu)
 
-Information about IRL can be found on [IRL's website](robotics.illinois.edu).
+Information about IRL can be found on [IRL's website](http://robotics.illinois.edu).
 
 ## Acknowledge IRL
 The following acknowledgement __must__ be included in all publications that incorporate any results obtained through the IRL facilities: 
