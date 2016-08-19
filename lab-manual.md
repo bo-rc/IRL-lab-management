@@ -72,12 +72,12 @@ The staff of the IRL may make major contributions to the research carried out by
 
 # Use the Lab
 
-The preferred mode of operation at IRL is self-use after completing the necessary training. Staff-assisted use may be permitted before the user can complete the training. Perspective users may schedule a tour with the lab manager during [office hours](https://github.com/bo-rc/IRL-lab-management/blob/master/lab-manual.md#lab-manager-office-hours). After a brief process to become a formal user (see below) and completion of lab training, you can apply to get i-card access to the lab and reserve time for use of the lab facilities. Lab users can make lab reservations [online](robotics.illinois.edu/reserve-lab).
+The preferred mode of operation at IRL is self-use after completing the necessary training. Staff-assisted use may be permitted before the user can complete the training. Perspective users may schedule a tour with the lab manager during [office hours](https://github.com/bo-rc/IRL-lab-management/blob/master/lab-manual.md#lab-manager-office-hours). After a brief process to become a formal user (see below) and completion of lab training, you can apply to get i-card access to the lab and reserve time for use of the lab facilities. Lab users can make lab reservations [online](http://robotics.illinois.edu/reserve-lab).
 
 ## Becoming a User
 Perspective users should submit a short application (see requirements below) [online](http://robotics.illinois.edu/become-a-user/). Every effort will be made to ensure decisions about the application will be sent back to the applicant and the applicant’s supervisor within 2 business days. When approved, a project number will be provided for use when making a facility use reservation. The purpose of the application is for IRL staff to help evaluate the experiment design, discuss with the user about improvements on the design in view of IRL's resources and expertise, and finally document facility usage. In general, any mobile robotics-related project or Vicon users are encouraged to use the IRL facility.
 
-The applicant need to prepare the following information using the online [application form](robotics.illinois.edu/lab-user/application):
+The applicant need to prepare the following information using the online [application form](http://robotics.illinois.edu/become-a-user):
 *	Title of the project
 *	PI, co-PI and collaborators
 *	Citizenship status 
