@@ -213,7 +213,7 @@ __handling LiPo batteries__:
 *	Fire extinguishers are located at the entrance of room 1257 in case of fire, always notify the Lab manager or other Senior CSL staff and contact fire department by calling 911.
 
 __handling flight tests__:
-Please refer to the [Flying arena rules]()
+Please refer to the [Flying arena rules](https://github.com/bo-rc/IRL-lab-management/blob/master/lab-manual.md#flying-arena)
 
 __using IRL space__:
 *	Flight tests can be performed in the flying arena only.
