@@ -299,6 +299,9 @@ The lab training program includes the following:
 ## Introduction to general lab rules
 ## Pilot training for multirotors
 * 2-hour flight time with a multirotor Simulator on computers
+
+<img src="https://cloud.githubusercontent.com/assets/14265605/18094884/b4639b06-6e9a-11e6-8bd3-b149d28d2173.JPG" width="600">
+
 * 1-hour instructor-assited flight time using paired radio controllers for new multirotor pilots
 * Flight tests for new multirotor pilots: new pilots must be able to perform the following maneuvers with the IRL training quadcopter:
   * Hovering at 4 orientations
