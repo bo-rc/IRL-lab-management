@@ -17,7 +17,7 @@ var t = 60;                // Time of the ramp input (seconds)
 var plateauDuration = 1;   // Time to wait at each plateau (seconds)
 var samplesAvg = 20;       // Number of samples to average at each reading (reduces noise)
 var filePrefix = "RampTest";
-var rampGoDown = no;      // If set to true, the ramp will go up and down.
+var rampGoDown = false;      // If set to true, the ramp will go up and down.
 
 ///////////////// Beginning of the script //////////////////
 
