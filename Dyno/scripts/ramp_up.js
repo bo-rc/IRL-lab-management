@@ -3,18 +3,18 @@
 The script will perform an up and down ramp function with values between "minVal" and "maxVal". Around each ramp the script will keep the output constant (plateau). The ramp will be of duration "t". Data will be continuously recorded during the test.
 
  ^ Motor Input
- |             ___maxVal   
- |            /   \                            
- |           /     \ <-> plateauDuration         
- | minVal___/       \___            
- |_________ <t>___<t>_____________> Time
+ |          ___maxVal   
+ |         /                               
+ |        /             
+ | minVal/                 
+ |______ <t>_________> Time
 
 ///////////// User defined variables //////////// */
 
 var minVal = 1000;         // Min. input value [700us, 2300us] 
 var maxVal = 2000;         // Max. input value [700us, 2300us]
-var t = 40;                // Time of the ramp input (seconds)
-var plateauDuration = 0;   // Time to wait at each plateau (seconds)
+var t = 60;                // Time of the ramp input (seconds)
+var plateauDuration = 1;   // Time to wait at each plateau (seconds)
 var samplesAvg = 20;       // Number of samples to average at each reading (reduces noise)
 var filePrefix = "RampTest";
 var rampGoDown = no;      // If set to true, the ramp will go up and down.
@@ -40,7 +40,7 @@ function readDone(result){
 //ESC initialization
 rcb.console.print("Initializing ESC...");
 rcb.output.pwm("esc",1000);
-rcb.wait(startPlateau, 4);
+rcb.wait(startPlateau, 1);
 
 //Start plateau
 function startPlateau(){
