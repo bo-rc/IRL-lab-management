@@ -195,6 +195,8 @@ Flying arena rules:
   *	Disconnect the main battery to your vehicle as soon as you can after the vehicle is landed.
 *	User must use extra caution to recover a crash or when performing a maiden flight/experiment 
 *	When retrieving a crashed drone other possibly damaged equipment or autonomous vehicle, safety glasses and safety gloves must be worn and proper shoes and attire must be worn.  If uncertain of the safety of the operation to be undertaken, you must notify the IRL Lab Manager or other senior CSL official and obtain permission before proceeding.
+*	Maximum timespan the user can reserve the lab is 8 hours; Special requests, such as a blanket reservation of more than 8 hours, can be negotiated with IRL staff.
+*	The LED strobe lights on Vicon cameras have a certain lifttime. To prolong the service of Vicon instruments, if the Vicon cameras are not being used for data aquisition for longer than 45 min, the cameras should be turned off; the computer which controls the Vicon cameras can be left on to maintain your work state.
 *	All lab rules are followed by the user.  Failure to follow lab rules may result in consequences up to and including immediate termination of rights to use desk space.
 
 ## Safety rules
