@@ -111,17 +111,18 @@ Currently, a [lab schedule](http://robotics.illinois.edu/lab-schedule/) is maint
 
 # Lab rules
 
-<img src="https://cloud.githubusercontent.com/assets/14265605/19121332/a5efc6f4-8aeb-11e6-85e0-e47d57b36979.png)" width="1000">
+<img src="https://cloud.githubusercontent.com/assets/14265605/19121332/a5efc6f4-8aeb-11e6-85e0-e47d57b36979.png" width="1000">
 
+* Arena Vicon coordinate system as shown in the figure using a right-handed coordination convention
 ## Using IRL space
 Researchers who are part of an active project approved by IRL can use IRL facilities. IRL is located inside the CSL studio (1206 W. Clark, Urbana IL). As shown in the picture above, IRL users may use the Desk area, the Bench room and the Flying arena as well as the Storage room. The i-card access to the Bench room and the Flying arena can be obtained after completion of lab training.
 
 It is worth stating again that IRL is a shared facility. As such IRL has strived to develop use policies that are fair to all.  We also emphasize the importance for these facilities to be used safely and maintained in good operational order for all users and their respective colleagues. 
 
 ### Desk area
-IRL includes twelve CSL studio desks numbered from 53 to 64. IRL explicitly labels those desks with labels from D1 to D12. Cubic desks at the desk area are used as hoteling seats, which may be reserved by users. Desk D9 and D10 are reserved for IRL daily users who have appointments shown on the online schedule. Frequent users of IRL may apply through the IRL staff to use the space for a long period provided the following rules are followed:
+IRL includes twelve CSL studio desks numbered from 53 to 64. IRL explicitly labels those desks with labels from D1 to D12. Cubic desks at the desk area are used as hoteling seats, which may be reserved by users by using the [online application form](http://robotics.illinois.edu/apply-desk/). Desk D10 is reserved for IRL daily users who have appointments shown on the online schedule. Frequent users of IRL may apply through the IRL staff to use the space for a long period provided the following rules are followed:
 *	The user must have an active project at IRL approved by the IRL staff.
-*	The longest use time that can be requested at one time is two months.
+*	The longest use time that can be requested at one time is one semester.
 *	Renewal is possible and must be approved by the IRL staff.
   *	IRL staff may turn down the renewal for reasons including but not limited to the following: the space is not used more than 50% of the requested time, project priority, high demand of the Desk area from other users currently in the waiting list.
 *	All lab rules are followed by the user.  Failure to follow lab rules may result in consequences up to and including immediate termination of rights to use desk space.
@@ -181,9 +182,10 @@ Flying arena rules:
 *	Drones must not be flown closer than 2m to any Vicon camera.
 *	When flying drones that have larger-than-5-inch propellers or are powered by 3S LiPo or more powerful batteries, safety glasses must be worn and safety gloves must be worn when handling the drone. IRL has provided safety glasses and safety gloves at the entrance of the flying arena. Please restore the safety equipment after usage.
 *	When flying a vehicle tethered to the ground using a safety cable provided by IRL, no more than 3 people can be inside the netting arena simultaneously. When flying a free vehicle, no one can be inside the netting arena; everyone should be outside the netting arena before the vehicle can take off.
-*	No carbon-fiber or metal prop-vehicles can be operated inside IRL.
-  *	spinning carbon-fiber or metal propellers are extremely dangerous.
+*	No carbon-fiber or metal prop-vehicles larger than 5 inches can be operated inside IRL.
+  *	large spinning carbon-fiber or metal propellers are extremely dangerous.
   *	The benefit of using them is minimum inside IRL flying arena.
+  * When using a small carbon-fiber or metal-prop vehicles, all operators must be outside the netting area and wear safety glasses. When retrieving a landed carbon-fiber or metal-prop vehicle inside the netting area, protection gloves must be used. In general, use extra caution for dealing with carbon-fiber or metal-prop vehicles.
 *	When operating your robots inside IRL, be alert and clear. You should:
   *	stand at least five feet away from vehicle
   *	everyone must be mentally alert
