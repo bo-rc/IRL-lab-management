@@ -113,7 +113,8 @@ Currently, a [lab schedule](http://robotics.illinois.edu/lab-schedule/) is maint
 
 <img src="https://cloud.githubusercontent.com/assets/14265605/19121332/a5efc6f4-8aeb-11e6-85e0-e47d57b36979.png" width="1000">
 
-* Arena Vicon coordinate system as shown in the figure using a right-handed coordination convention
+> Arena Vicon coordinate system as shown in the figure using a right-handed coordination convention
+
 ## Using IRL space
 Researchers who are part of an active project approved by IRL can use IRL facilities. IRL is located inside the CSL studio (1206 W. Clark, Urbana IL). As shown in the picture above, IRL users may use the Desk area, the Bench room and the Flying arena as well as the Storage room. The i-card access to the Bench room and the Flying arena can be obtained after completion of lab training.
 
