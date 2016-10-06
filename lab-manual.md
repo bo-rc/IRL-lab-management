@@ -92,6 +92,7 @@ The applicant need to prepare the following information using the online [applic
 *	What time is expected to be requested: hours per week, number of weeks
 *	Nature of hours per week: minimum block of time, daytime, evening time, night time
 *	Special safety requests or exceptions based on nature of the experiment
+* An IRL assigned project number will be issued to the new user after the project is approved. A group of researchers on the same project can have the same project number. The lead researcher should apply and include other project members using the online [application form](http://robotics.illinois.edu/become-a-user). When reserving the lab (see below), all project members can use the same IRL-assigned project number.
 
 ## Completing lab training
 This manual contains [training tutorials]() for new users. The lab staff holds training office hours to train new users. Office hours reserved for training will cover the following topics:
@@ -104,8 +105,10 @@ You may schedule a one-hour training session in [office hours] by sending an ema
 
 To comply with our safety rules and insurance requirements, we recommend that no user use the lab alone. Before a user has completed lab training, such users can use the facility only when IRL staff are on-site and when they have notified the IRL staff of their intent to use the facility.  Failure to follow these rules and other rules related to IRL use could result in suspension of user privileges.  Please consider your colleagues in this manner: investigations of incidents and violations could result in closure of the facility for all users.
 
+All project members must pass the lab training before using the lab. 
+
 ## Making reservations to use the lab
-After completing the lab training, users can schedule time and self-use the facility as long as all lab rules are followed.  Please use the web-based [reservation form](http://robotics.illinois.edu/reserve-lab/). Please also include set-up time and reconfiguration time if you need to reconfigure the laboratory in a configuration that differs from standard.  The standard set-up is for UAS flights with foam dispersed evenly across the floor and netting fully deployed.  You will be expected to remove such foam when you require it and replace it at the end of your measurements.  Addition of large fans for gust simulation are another example of deviations from the standard configuration.
+After completing the lab training, users can schedule time and self-use the facility as long as all lab rules are followed.  Please use the web-based [reservation form](http://robotics.illinois.edu/reserve-lab/). The IRL-assigned project number is required for the reservation. Any project member who has been included in his/her group's project application can make the reservation. Please also include set-up time and reconfiguration time if you need to reconfigure the laboratory in a configuration that differs from standard.  The standard set-up is for UAS flights with foam dispersed evenly across the floor and netting fully deployed.  You will be expected to remove such foam when you require it and replace it at the end of your measurements.  Addition of large fans for gust simulation are another example of deviations from the standard configuration.
 
 Currently, a [lab schedule](http://robotics.illinois.edu/lab-schedule/) is maintained on the [IRL's website](http://robotics.illinois.edu/reserve-lab/). Please find an open time slot and submit the reservation request form online. After the appointment is approved, the requested time will appear on the [lab schedule](http://robotics.illinois.edu/lab-schedule). 
 
@@ -122,15 +125,18 @@ It is worth stating again that IRL is a shared facility. As such IRL has strived
 
 ### Desk area
 IRL includes twelve CSL studio desks numbered from 53 to 64. IRL explicitly labels those desks with labels from D1 to D12. Cubic desks at the desk area are used as hoteling seats, which may be reserved by users by using the [online application form](http://robotics.illinois.edu/apply-desk/). Desk D10 is reserved for IRL daily users who have appointments shown on the online schedule. Frequent users of IRL may apply through the IRL staff to use the space for a long period provided the following rules are followed:
+* Desk application must be done [online](http://robotics.illinois.edu/apply-desk/)
 *	The user must have an active project at IRL approved by the IRL staff.
-*	The longest use time that can be requested at one time is one semester.
+*	The longest use time that can be requested at one time is one month.
 *	Renewal is possible and must be approved by the IRL staff.
   *	IRL staff may turn down the renewal for reasons including but not limited to the following: the space is not used more than 50% of the requested time, project priority, high demand of the Desk area from other users currently in the waiting list.
+* Each IRL-approved project will be able to hold two desks if demand is high. If demand is low and IRL can satisfy the need for desks, IRL-approved projects can hold as many desks as IRL can provide.
 *	All lab rules are followed by the user.  Failure to follow lab rules may result in consequences up to and including immediate termination of rights to use desk space.
 *	Failure to pay an applicable “hoteling fee” if such a fee is applicable
 *	Failure to maintain and clean spaces after use may result in cleaning charges imposed to the user and user’s supervisor.
 Daily users may use D9 and D10 which are not allocated to long-time users. Desks D9 and D10 must be cleaned daily.
 If all cubic desks are filled and a user want to have a desk for a long period, the user can email the lab manager who keeps a waiting list for requests of cubic desks. The user on the top of the waiting list will be served first when a desk is available. The IRL staff reserve the right to terminate the use of the Desk area and other lab facilities at any time.
+
 
 IRL users can use the cubic desks at the Desk area for their office need. The cubic desk should not be used as a working bench to build or repair robots. The cubic desks are meant for users to read papers, web-browsing for the purpose of the experiment etc. Please do not use the cubic desks as a working bench. However, the users can connect their computers to their robots for data downloading and other analysis provided that:
 *	the robot is not powered by the main battery and any moving part of the robot is secured or removed.
@@ -145,6 +151,7 @@ Specialized tools of use to a particular experiment or use can be brought by the
 <img src="https://cloud.githubusercontent.com/assets/14265605/17108845/e17ccf1a-525a-11e6-8c75-0357b67c082e.JPG" width="600">
 
 All eleven benches are labeled by IRL from B1 to B11. B3 and B5 are IRL's dedicated working bench area and are reserved for IRL daily users who have appointments on the online [schedule](http://robotics.illinois.edu/lab-schedule/). Users may apply to use other working benches for a long term following rules:
+* Bench application must be done [online](http://robotics.illinois.edu/apply-bench/)
 *	The user must have an active project at IRL approved by the IRL staff.
 *	Any project material/equipment brought in and out of IRL must be reported on the log book at the entrance of room 1257.
 *	Hazardous material should not be stored in the Bench room.
@@ -152,6 +159,7 @@ All eleven benches are labeled by IRL from B1 to B11. B3 and B5 are IRL's dedica
 *	The longest time span that can be reserved at one time is one month.
 *	Renewal is possible and must be approved by the IRL staff.
   *	IRL staff may turn down the renewal for reasons including but not limited to the following: the bench is not used more than 50% of the requested time, project priority, high demand of the Bench room from other users currently in the waiting list.
+* Each IRL-approved project will be able to hold at most two benches.
 *	All lab rules are followed by the user.
 
 Other rules in the Bench room:
