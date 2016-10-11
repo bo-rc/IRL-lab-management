@@ -80,7 +80,6 @@ Perspective users should submit a short application (see requirements below) [on
 The applicant need to prepare the following information using the online [application form](http://robotics.illinois.edu/become-a-user):
 *	Title of the project
 *	PI, co-PI and collaborators
-*	Citizenship status 
 *	The employer (if not UofI)
 *	Principal point of contact (normally the primary user of the facility) and contact information (email; cell phone, work phone, etc.)
 *	Status of all likely users with respect to completion of safety training including whether safety training and/or testing has been requested
