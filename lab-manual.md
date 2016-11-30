@@ -134,7 +134,7 @@ IRL includes twelve CSL studio desks numbered from 53 to 64. IRL explicitly labe
 *	All lab rules are followed by the user.  Failure to follow lab rules may result in consequences up to and including immediate termination of rights to use desk space.
 *	Failure to pay an applicable “hoteling fee” if such a fee is applicable
 *	Failure to maintain and clean spaces after use may result in cleaning charges imposed to the user and user’s supervisor.
-Daily users may use D9 and D10 which are not allocated to long-time users. Desks D9 and D10 must be cleaned daily.
+Daily users may use D10 which is not allocated to long-time users. Desk D10 must be cleaned daily.
 If all cubic desks are filled and a user want to have a desk for a long period, the user can email the lab manager who keeps a waiting list for requests of cubic desks. The user on the top of the waiting list will be served first when a desk is available. The IRL staff reserve the right to terminate the use of the Desk area and other lab facilities at any time.
 
 IRL users can use the cubic desks at the Desk area for their office need. The cubic desk should not be used as a working bench to build or repair robots. The cubic desks are meant for users to read papers, web-browsing for the purpose of the experiment etc. Please do not use the cubic desks as a working bench. However, the users can connect their computers to their robots for data downloading and other analysis provided that:
