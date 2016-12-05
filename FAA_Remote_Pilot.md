@@ -47,7 +47,41 @@ __Flight log__:
 __aircraft ID__:
 * unique ID for fleet
 
-## 1.5 Night operations
+## 1.5 Night operations (on exam)
+
+_definitions_:
+__Evening civil twilight__: [sunset, sunset+30min]
+__Morning civil twilight__: [sunrise-30min, sunrise]
+__night__: (sunset+30min, sunrise-30min)
+
+FAA prohibits sUAS operation during night.
+* unless COW
+
+sUAS operation OK in twilight if equipped with anti-collision light visible from 3 statute miles.
+* 1.15 statute miles = 1 mile
+* momentary intensity reachs 3 statute miles
+
+## 1.6 Visibility and cloud clearance requirement
+
+_station visibility_ (on exam): 3 statute miles
+_UAS obstables_ (on exam): 500ft below cloud and 2000ft horizontally from the cloud
+
+keep visual line of sight.
+
+momentary vision aid allowed.
+
+## 1.7 Maxmum speed and altitute
+
+* ground speed 87 knots (100 mph)
+* 400ft Above Ground Level (AGL)
+ * unless flying over 400ft radius of tall structure: +400ft of the tallest part.
+
+## 1.8 Right of way rules
+
+FPV can be used if see and avoid can be satisfied in other ways.
+
+## 1.9 Operation over non-participants
+
 
 
 
