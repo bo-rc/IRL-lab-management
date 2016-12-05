@@ -7,7 +7,7 @@ _Definitions_:
 
 * __Remote PIC__: Pilot In Command
 * __Visual Observer__:
-* the __Operator: the person manipulating the controls
+* the __Operator__: the person manipulating the controls
 
 Those three are the __Crew__.
 
