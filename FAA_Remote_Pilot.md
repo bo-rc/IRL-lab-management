@@ -86,6 +86,19 @@ Idealy: sparsely-populated area.
 * If not, make a plan to protect bystanders
  * this is "other doc" refered by FAA
 
+## 1.20 operate from a moving vehicle
+
+* allowd except from an aircraft
+* do-it-for-a-hire cannot operate on a moving vehicle
+ * e.g. delivery service
+* distracting driving is not allowed.
+
+
+## 1.21 Weight limitations
+sUAS: [.55 - 55lbs)
+* .55lbs and above must be registered.
+
+## 2.22 Certificate of waiver
 
 
 
