@@ -82,6 +82,10 @@ FPV can be used if see and avoid can be satisfied in other ways.
 
 ## 1.9 Operation over non-participants
 
+Idealy: sparsely-populated area.
+* If not, make a plan to protect bystanders
+ * this is "other doc" refered by FAA
+
 
 
 
