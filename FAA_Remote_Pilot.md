@@ -1,4 +1,4 @@
-# 1: Rules and Regulations
+# 1 Rules and Regulations
 
 ## 1.1 Intro
 
@@ -99,6 +99,76 @@ sUAS: [.55 - 55lbs)
 * .55lbs and above must be registered.
 
 ## 2.22 Certificate of waiver
+If operation cannot be covered under part 107, PIC can apply for COW.
+* e.g. fly at nights
+* this is one of "other doc" mentioned by FAA
+* start the process 90 days before planned flight (on exam)
+
+## Part 107 vs. Hobbyist
+sUAS registration
+* you may register an empty LLC and list the UAS as a property of the LLC to protect against lawsuis. 
+
+# 2 Airspaces
+
+## Class B
+
+Large and "B"usy airports, requires approval for sUAS.
+
+Solid blue lines. Inverted wedding cake shape.
+
+## Class C
+
+Stepped-down size but still busy (UIUC Willard), requires approval for sUAS.
+
+Solid magenta lines. Inverted wedding cake shape.
+
+## Class D
+
+Much smaller, requries approval for sUAS.
+
+Dashed blue lines. Cylinder shape.
+
+## Class E&G
+
+Generally uncontrolled.
+
+* Class G requires no prior approval for sUAS.
+* surface Class E (Dashed magenta lines) requires approval for sUAS: it starts from the ground.
+* typical Class E starts from 700ft or 1200ft (Faded magenta lines): part 107 sUAS do not apply.
+
+## Other airspaces
+
+Refer to FAA Chart.
+
+## AGL vs. MSL
+
+__AGL__: above ground level
+
+__MSL__: mean see level
+* FAA chart uses MSL.
+ * one exeption: Faded magenta, Class E, uses AGL.
+
+5-mile rule: only applies for hobbyists. 
+* remote pilots can fly in any class G airspace without prior approval.
+
+## Advanced airspace (on Exam)
+* Class C: 20nm across
+* Class D: usually extends up to 2500ft AGL
+* MOA: military training activities that necessitate acrobatic or abrupt flight manuvers.
+* Restricted: unusual, often invisible hazard to aircraft.
+ * e.g. artillery firing, aerial gunnary, missles.
+ 
+ * MRT: military training routes
+  * height: 
+    * four-digit, e.g. IR1202: 1500ft AGL and below
+    * three-and-less digit, e.g. VR108, IR23: 1500ft AGL and above.
+    
+ # 3 UAS weather and weather sources
+ 
+
+
+
+
 
 
 
