@@ -165,7 +165,13 @@ __MSL__: mean see level
     
  # 3 UAS weather and weather sources
  
+## 3.1 METARs
 
+[METAR help](http://weather.cod.edu/notes/metar.html)
+
+on-Exam: raw format of METAR needs to be translated to info.
+
+## 3.2 TAFs
 
 
 
