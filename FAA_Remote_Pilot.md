@@ -217,5 +217,21 @@ __unstable air__ charactersitics:
 * good VIS
 * showery precipitation (precipitation falls inconsistently and would be defined as showery)
 
+## 3.6 Surface friction
 
+Affects low-flying sUAS.
+
+## 3.7 Cloud formations and types
+
+FAA classifications of __Fog__s: 
+
+Close tempreture and dew point -> visible moisture: fog
+
+__Radiation fog__
+
+__Advection fog__
+
+__Upslope fog__
+
+__Precipitation induced fog/Steam fog__
 
