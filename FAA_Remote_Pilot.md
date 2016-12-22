@@ -205,8 +205,17 @@ on exam: 3 types of weather briefs:
 * abbreviated: for pilot who needs to update previous weather data to complete weather picture.
 * outlook: is requested by pilots whose departure time is 6 or more hours away.
 
+## 3.5 Stable vs. unstable air (on exam)
 
+__stable air__ characteristics:
+* stratiform clouds (层云：low-level cloud characterized by horizontal layering with a uniform base, as opposed to convective or cumuliform clouds that are formed by rising thermals. foggy but not moving)
+* fair to poor VIS
+* continuous precipitation (precipitation at a constant and continuous rate)
 
+__unstable air__ charactersitics:
+* cumulus clouds (积云：look for building cumulus vertical clouds because air is moving)
+* good VIS
+* showery precipitation (precipitation falls inconsistently and would be defined as showery)
 
 
 
