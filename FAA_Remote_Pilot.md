@@ -167,6 +167,9 @@ __MSL__: mean see level
  
 ## 3.1 METARs
 
+_stands for_: Meteorological Terminal Aviation Routine Weather Report.
+
+
 [METAR help](http://weather.cod.edu/notes/metar.html)
 
 [Aviationweather.gov](http://aviationweather.gov/)
@@ -175,6 +178,8 @@ on-Exam: raw format of METAR needs to be translated to info.
 
 ## 3.2 TAFs
 
+_stands for_: Terminal Aerodrome Forecast.
+
 Extension to METAR and Forcast.
 
 [Aviationweather.gov](http://aviationweather.gov/)
@@ -182,6 +187,23 @@ Extension to METAR and Forcast.
 Typically valid for 24h.
 
 1 knot = 1.15 mph.
+
+## 3.3 HEMS Tools
+
+_stands for_: Helicopter Emergency Medical Services.
+
+Not on the exam but useful tool.
+
+For low altitude (helicopters).
+
+## 3.4 Weather briefs
+
+[website](https://www.1800wxbrief.com/)
+
+on exam: 3 types of weather briefs:
+* standard: most complete weather briefing and for pilot who does not have an opportunity to gather any other weather data, gives the following information: adverse conditions VFR (Visual FLight Rules) flight not recommended Synopsis Current conditions, plus NOTAMs and TFRs.
+* abbreviated: for pilot who needs to update previous weather data to complete weather picture.
+* outlook: is requested by pilots whose departure time is 6 or more hours away.
 
 
 
