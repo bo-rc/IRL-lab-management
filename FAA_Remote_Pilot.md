@@ -223,7 +223,7 @@ Affects low-flying sUAS.
 
 ## 3.7 Cloud formations and types
 
-FAA classifications of __Fog__s: 
+FAA classifications of Fogs: 
 
 Close tempreture and dew point -> visible moisture: fog
 
@@ -234,4 +234,42 @@ __Advection fog__
 __Upslope fog__
 
 __Precipitation induced fog/Steam fog__
+
+
+FAA classification of clouds:
+
+__low clouds__: 6,500ft and below
+* stratus clouds
+* cumulus clouds can also be low
+* nimbostratus (nimbo: rain)
+* cumulonimbus
+
+__middle clouds__:
+* altocumulus
+* altostratus
+
+__High clouds__:
+* cirrus
+* clouds with extension vertical development
+* towering cumulonimbus
+
+<img width="724" alt="cloud-classification" src="https://cloud.githubusercontent.com/assets/14265605/21439624/a4222398-c854-11e6-823c-91fc75e760e0.png">
+
+# 3.8 Advanced Weather
+
+SPECI METAR issued between METAR issue freqency when weather changes.
+
+Fog vs. Frost.
+
+Ceiling: lowest broken or overcast cloud layer.
+
+True vs. Magnetic winds
+* rule of thumb is: If you read it, it is True. If you hear it, it is Magnetic.
+* The automatic controll tower info. gives Magnetic.
+* If you on a phone, the briefer gives you True because they just read it.
+
+# 3.9 Flight Service and NOTAMs
+
+
+
 
