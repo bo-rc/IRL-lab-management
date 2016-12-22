@@ -169,9 +169,19 @@ __MSL__: mean see level
 
 [METAR help](http://weather.cod.edu/notes/metar.html)
 
+[Aviationweather.gov](http://aviationweather.gov/)
+
 on-Exam: raw format of METAR needs to be translated to info.
 
 ## 3.2 TAFs
+
+Extension to METAR and Forcast.
+
+[Aviationweather.gov](http://aviationweather.gov/)
+
+Typically valid for 24h.
+
+1 knot = 1.15 mph.
 
 
 
