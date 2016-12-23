@@ -286,6 +286,34 @@ When will cloud or fog form?
 
 # 4. UAS loading and performance
 
+## 4.1 Flying a payload
+
+You should log the payload.
+
+49 CFR part 171.8: harzadous needs waiver.
+
+## 4.3 Performandce factors
+
+__density altitude__:
+
+__factors that may require a reduction in weight prior to flight include:
+* high density altitude conditions
+* high elevations
+* high air temperatures
+* high humidity
+* Runway/luanch aera length
+* surface
+* slope
+* surface wind
+* presence of obstacles
+
+## 4.4 Load factor
+
+__load factor__: 
+
+60<sup>o</sup> turn -> 2 G load factor.
+
+
 
 
 
