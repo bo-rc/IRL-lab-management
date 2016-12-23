@@ -313,6 +313,26 @@ __load factor__:
 
 60<sup>o</sup> turn -> 2 G load factor.
 
+## 4.5 Stall and Aerodynamics
+
+__critical angle of attack__:
+
+
+## 4.6 Basic CG performance
+
+__Forward CG__:
+* higher stall speed
+* slower cruise speed
+* more stable
+
+__Aft CG__:
+* lower stall speed
+* fast cruise speed
+* less stable
+
+# 5. Crew resource management
+
+
 
 
 
