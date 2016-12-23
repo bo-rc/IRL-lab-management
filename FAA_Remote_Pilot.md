@@ -253,22 +253,41 @@ __High clouds__:
 * clouds with extension vertical development
 * towering cumulonimbus
 
+__lenticular cloud__:
+
 <img width="724" alt="cloud-classification" src="https://cloud.githubusercontent.com/assets/14265605/21439624/a4222398-c854-11e6-823c-91fc75e760e0.png">
 
-# 3.8 Advanced Weather
+## 3.8 Advanced Weather
 
 SPECI METAR issued between METAR issue freqency when weather changes.
 
 Fog vs. Frost.
 
-Ceiling: lowest broken or overcast cloud layer.
+__advection fog__: 
+
+
+on exam: __Ceiling__: lowest broken or overcast cloud layer.
 
 True vs. Magnetic winds
 * rule of thumb is: If you read it, it is True. If you hear it, it is Magnetic.
 * The automatic controll tower info. gives Magnetic.
 * If you on a phone, the briefer gives you True because they just read it.
 
-# 3.9 Flight Service and NOTAMs
+## 3.9 Flight Service and NOTAMs
+
+If you have an approved waiver that requires a NOTAM, submit the NOTAM at [https://1800wxbrief.com/](https://1800wxbrief.com/) before your flight.
+
+
+## 3.10 Advanced Weather 2
+
+When will cloud or fog form?
+* A: when water vapor condenses, becoming visible.
+
+
+# 4. UAS loading and performance
+
+
+
 
 
 
