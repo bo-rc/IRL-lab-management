@@ -332,6 +332,68 @@ __Aft CG__:
 
 # 5. Crew resource management
 
+## 5.1 Hazardous Attitudes
+
+on exam: 
+* antiquthority
+
+* impulsivity
+
+* invulnerability
+ * mentality such as "it would never happen to me."
+
+* macho
+ * starts with "hey, watch this stunt i can do ..."
+
+* resignation
+ * resign themselves from the situation.
+ 
+## 5.2 Crew roles
+
+CRM: Crew Resource Management.
+
+The remote PIC identifies, delegates, and manages tasks for each sUAS operation.
+
+## 5.3 Contingency procedures: what is your Plan B
+
+Three steps contingency planning:
+* Communicate with ATC
+* What about airspace?
+* Flight ternimation
+ * Location: be located within power-off glide distance of the aircraft during all phases of flight
+ * Undercoverable: be based on the assumption of an unrecoverable system failure
+ * Environment: take into consideration altitude, winds, and other factors
+
+## 5.4 Drugs and alcohol
+
+Part 107 prohibits a person from serving as any sUAS crewmember if he or she:
+* consumed any alcoholic beverage within the preceding 8 hours.
+* is under the influence of alcohol
+* has a blood alcohol concentration of .04% or greater
+* is using a drug that affects the person's mental or physical capabilities
+* including OTC drugs, e.g. sleep medicine.
+
+Violation: 
+1. Denial of an application for a remote pilot certificate with sUAS rating for a period of up to 1 year after the date of final conviction. Or
+2. Suspension of a remote pilot certificate with a sUAS rating.
+
+3 hours for metabolism to get rid of all the alcohol contained in one mixed drink or one beer.
+
+## 5.5 Crew fatigue
+
+Fatigue is an impaired state.
+
+## 5.6 Hyperventilation (Over-breathing) & Stress Management
+
+Use your common sense.
+
+## 6. Airport/Field Operations
+
+
+
+
+
+
 
 
 
