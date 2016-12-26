@@ -154,9 +154,11 @@ __MSL__: mean see level
 ## Advanced airspace (on Exam)
 * Class C: 20nm across
 * Class D: usually extends up to 2500ft AGL
-* MOA: military training activities that necessitate acrobatic or abrupt flight manuvers.
-* Restricted: unusual, often invisible hazard to aircraft.
+* MOA: military training activities that necessitate ___low, acrobatic___ or abrupt flight manuvers.
+* Restricted: unusual, often ___invisible hazard___ to aircraft.
  * e.g. artillery firing, aerial gunnary, missles.
+ 
+Restricted area typically is surrounded by MOA.
  
  * MRT: military training routes
   * height: 
@@ -387,9 +389,59 @@ Fatigue is an impaired state.
 
 Use your common sense.
 
-## 6. Airport/Field Operations
+# 6. Airport/Field Operations
+
+## 6.1 NOTAMs and TFR's
+
+where to get NOTAMFs:
+* weather briefs
+* sUAS flight planning apps
+* onlinie
+
+[FAA NOTAM](https://pilotweb.nas.faa.gov/PilotWeb/)
 
 
+TFR: Temporary Flight Restrictions
+
+[FAA TFR](http://tfr.faa.gov/tfr2/list.html)
+
+[Skyvector](https://skyvector.com/)
+
+
+NOTAMs and TFRs are part of preflight check list.
+
+## 6.2 Obstacles
+
+AGL vs. MSL (Mean Sea Level)
+
+You must be able to read FAA sectional charts.
+
+How far you should stay away from a tower?
+A: at least 2000ft.
+
+## 6.3 Airport Traffic Patterns
+
+Runways are numbered in reference to magnetic north.
+
+Planes usually do left turns.
+
+on exam: Legs of traffic pattern:
+
+![airport-pattern](https://cloud.githubusercontent.com/assets/14265605/21475045/6558cac8-caec-11e6-9a1d-ff4f63b08113.png)
+
+## 6.4 FCC Frequencies
+
+Open frequencies for sUAS: 2.4G Hz, 5.8G Hz.
+
+on exam: Unlicensed radio frequency bands are regulated by the FCC: federal communications commision.
+
+## 6.5 NTIA privacy
+
+NTIA (National Telecommunications and Information Administration) is in charge of regulating privacy issues.
+
+## 6.6 VFR Sectional Chart Symbols
+
+Refer to PDF download.
 
 
 
