@@ -450,6 +450,14 @@ Revisit the lecture.
 ## 6.8 Mission based charting
 Revisit the lecture
 
+Top topics in exam:
+* METAR/TAF
+* Sectional Chart/Airspace
+
+Standard tempreture: 15<sup>o</sup>
+Standard pressure: 29.92 inHg
+
+## 6.9 Advanced chart symbols
 
 
 
