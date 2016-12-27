@@ -421,7 +421,7 @@ A: at least 2000ft.
 
 ## 6.3 Airport Traffic Patterns
 
-Runways are numbered in reference to magnetic north.
+Runways are numbered in reference to magnetic north. When you call a runway, planes are heading that number.
 
 Planes usually do left turns.
 
@@ -443,10 +443,12 @@ NTIA (National Telecommunications and Information Administration) is in charge o
 
 Refer to PDF download.
 
+Revisit the lecture.
 
 ## 6.7 Longitude and Latitude
 
-
+## 6.8 Mission based charting
+Revisit the lecture
 
 
 
