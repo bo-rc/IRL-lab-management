@@ -459,6 +459,16 @@ Standard pressure: 29.92 inHg
 
 ## 6.9 Advanced chart symbols
 
+## 6.10 B4UFly App
+
+towards hobbyist and ultra conservative.
+
+## 6.11 Insurance
+
+verifly app, hourly based.
+
+
+
 
 
 
