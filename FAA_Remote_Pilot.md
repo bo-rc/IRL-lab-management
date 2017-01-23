@@ -73,7 +73,7 @@ keep visual line of sight: momentary vision aid allowed.
 
 * _ground speed_ max is 87 knots (100 mph)
 * max flight ceiling is 400ft Above Ground Level (AGL)
- * unless flying over a tall structure: stay within 400ft radius of the building, add +400ft of the tallest part to your flight ceiling.
+ * unless flying over a tall structure: If you stay within 400ft radius of the building, you can add +400ft of the tallest part to your flight ceiling.
 
 ## 1.8 Right of way rules
 
