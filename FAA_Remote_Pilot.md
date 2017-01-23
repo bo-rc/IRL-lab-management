@@ -14,7 +14,7 @@ Those three are the __Crew__.
 ## 1.3 Remote PIC responsibility
 PIC responsibilities:
 * final authority
-* see and acoid (yield right of way)
+* see and avoid (yield right of way)
 * responsible for the crew
 * operating conditions
   * such as preflight checks
@@ -58,17 +58,16 @@ FAA prohibits sUAS operation during night.
 * unless COW
 
 sUAS operation OK in twilight if equipped with anti-collision light visible from 3 statute miles.
-* 1.15 statute miles = 1 mile
+* 1.15 statute miles = 1 nautical mile
 * momentary intensity reachs 3 statute miles
 
 ## 1.6 Visibility and cloud clearance requirement
 
-_station visibility_ (on exam): 3 statute miles
-_UAS obstables_ (on exam): 500ft below cloud and 2000ft horizontally from the cloud
+_station visibility_ (on exam): no less than 3 statute miles
+_UAS obstables_ (on exam): 
+* avoid the cloud: 500ft below cloud and 2000ft horizontally from the cloud
 
-keep visual line of sight.
-
-momentary vision aid allowed.
+keep visual line of sight: momentary vision aid allowed.
 
 ## 1.7 Maxmum speed and altitute
 
