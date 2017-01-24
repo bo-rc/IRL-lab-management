@@ -87,7 +87,7 @@ Idealy: sparsely-populated area.
 
 ## 1.20 operate from a moving vehicle
 
-* allowd except from an aircraft
+* allowed except from an aircraft
 * do-it-for-a-hire cannot operate on a moving vehicle
  * e.g. delivery service
 * distracting driving is not allowed.
@@ -96,6 +96,9 @@ Idealy: sparsely-populated area.
 ## 1.21 Weight limitations
 sUAS: [.55 - 55lbs)
 * .55lbs and above must be registered.
+
+.55lbs = 249.5g
+55lbs = 24.95kg
 
 ## 2.22 Certificate of waiver
 If operation cannot be covered under part 107, PIC can apply for COW.
